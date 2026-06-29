@@ -4,13 +4,13 @@
 
 # Hi, I'm Georgi 👋
 
-**Web designer & developer — a one-person studio in Sofia, Bulgaria.**
+**Web designer & developer. A one-person studio in Sofia, Bulgaria.**
 
 </div>
 
-I design and build websites by hand. No templates, no page builders, no agency middlemen — just clean code written from scratch, one business at a time. I do all of it myself: the design, the code, the launch. One person you can actually reach, responsible for the whole thing start to finish.
+I design and build websites by hand. No templates, no page builders, no agency middlemen, just clean code written from scratch, one business at a time. I do all of it myself: the design, the code, the launch. One person you can actually reach, responsible for the whole thing start to finish.
 
-I started **[Demiurg](https://demiurg.dev)** because most small businesses get handed the same bloated template as everyone else. I'd rather build something that's actually yours — fast, light, made to fit.
+I started **[Demiurg](https://demiurg.dev)** because most small businesses get handed the same bloated template as everyone else. I'd rather build something that's actually yours: fast, light, made to fit.
 
 ### What that looks like
 - 🚀 **A sharp landing page** for a new business
